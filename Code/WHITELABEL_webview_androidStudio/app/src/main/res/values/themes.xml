@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WHITELABEL_webview" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#1E90FF</item> <!-- Sonic blue -->
+        <item name="colorPrimaryDark">#104E8B</item> <!-- Darker Sonic blue -->
+        <item name="colorAccent">#00BFFF</item> <!-- Accent color, light blue -->
+    </style>
+</resources>
+
